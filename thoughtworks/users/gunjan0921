@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gunjan0921
+  profile:
+    displayName: Gunjan
+    email: gunjan.gupta@thoughtworks.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-pet]
